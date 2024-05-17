@@ -4,25 +4,19 @@ This project demonstrates how to create a layout with resizable panels using Rea
 
 ## Installation
 
-1. Navigate into the project directory:
-
-    ```bash
-    cd Resizable-Panels
-    ```
-
-2. Install dependencies using npm:
+1. Install dependencies using npm:
 
     ```bash
     npm install
     ```
 
-3. Start the development server:
+2. Start the development server:
 
     ```bash
     npm run dev
     ```
 
-4. Open your browser and visit the port on which your server is running.
+3. Open your browser and visit the port on which your server is running.
 
 ## Usage
 
